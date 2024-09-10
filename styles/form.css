@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 
-body{
-    background-image: url(/img/fundo.jpg);
+body {
+    background-image: url(./img/fundo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -15,12 +15,12 @@ body{
 
 div {
     margin: auto;
-    border: 2px solid; 
+    border: 2px solid;
     background-color: #cccccc9f;
     border-radius: 50px;
     width: 540px;
     height: 200px;
-    
+
 }
 
 .confirmar {
@@ -34,14 +34,16 @@ div {
     padding: 20px;
     padding-bottom: 0px;
 }
-h1{
+
+h1 {
     font-size: 4em;
     text-align: center;
     font-weight: bold;
     margin: 0;
     padding: 0;
 }
-p{
+
+p {
 
     font-weight: 600;
     color: black;
