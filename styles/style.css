@@ -78,3 +78,10 @@ section#aproveitar {
 .laranja {
     background-color: #F45D01;
 }
+
+.botao {
+    background-color: blue;
+    color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
